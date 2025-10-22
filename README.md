@@ -1,5 +1,42 @@
 # Proiect Agile - Task Manager
 
-[cite_start]**Scopul proiectului:** „Aplicația va permite utilizatorilor să gestioneze sarcinile zilnice cu ușurință." [cite: 107]
+Acest fișier README servește ca document central pentru Laboratorul 1, acoperind configurarea proiectului și exercițiile practice.
 
-[cite_start]**Funcţionalități planificate:** „Adăugare sarcini, ştergere sarcini, notificări." [cite: 108]
+## 1. Scopul Proiectului și Funcționalități
+
+* [cite_start]**Scopul proiectului:** „Aplicația va permite utilizatorilor să gestioneze sarcinile zilnice cu ușurință.” [cite: 107]
+* [cite_start]**Funcţionalități planificate:** „Adăugare sarcini, ştergere sarcini, notificări.” [cite: 108]
+
+---
+
+## 2. Configurare Panou Kanban (Trello)
+
+Mai jos este o simulare a panoului nostru Kanban, cu mai multe exemple de sarcini pentru a ilustra fluxul de lucru.
+
+### Coloana: To Do
+* [cite_start]Crearea unei funcționalități de bază pentru aplicație. [cite: 102]
+* Configurarea bazei de date pentru utilizatori.
+* Scrierea testelor unitare pentru modulul de login.
+* Design-ul paginii "Setări cont".
+* Definirea endpoint-ului API pentru "Adăugare sarcini".
+
+### Coloana: In Progress
+* [cite_start]Dezvoltarea formularului UI. [cite: 103]
+* Implementarea logicii de autentificare (backend).
+* Revizuirea codului pentru funcționalitatea de ștergere.
+
+### Coloana: Done
+* [cite_start]Stabilirea design-ului aplicației. [cite: 104]
+* Definirea arhitecturii proiectului.
+* Crearea repository-ului GitHub (acest fișier).
+* Alegerea paletei de culori și a fonturilor.
+
+---
+
+## 3. Exercițiu Practic: Vizualizarea Valorilor Agile
+
+[cite_start]**Valoarea:** „Indivizii şi interacțiunile mai presus de procese și unelte.” [cite: 97]
+
+**Exemplu similar din experiența personală:**
+
+„Într-un proiect, procesul (procesul) pentru a raporta un bug era să creăm un raport detaliat într-un sistem de tracking (unealta), cu capturi de ecran și pași exacți de reproducere. Aveam o problemă critică pe care nu o puteam reproduce constant. În loc să pierd o oră scriind un ticket incomplet, am inițiat un apel video rapid cu tester-ul și un dezvoltator (indivizii). Prin partajarea ecranului (interacțiunea), am reușit să identificăm problema în 10 minute, descoperind că era cauzată de o setare specifică de fus orar pe care nu aș fi ghicit-o scriind un raport.”
