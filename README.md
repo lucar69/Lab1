@@ -4,8 +4,8 @@ Acest fișier README servește ca document central pentru Laboratorul 1, acoperi
 
 ## 1. Scopul Proiectului și Funcționalități
 
-* [cite_start]**Scopul proiectului:** „Aplicația va permite utilizatorilor să gestioneze sarcinile zilnice cu ușurință.” [cite: 107]
-* [cite_start]**Funcţionalități planificate:** „Adăugare sarcini, ştergere sarcini, notificări.” [cite: 108]
+**Scopul proiectului:** „Aplicația va permite utilizatorilor să gestioneze sarcinile zilnice cu ușurință.”
+**Funcţionalități planificate:** „Adăugare sarcini, ştergere sarcini, notificări.”
 
 ---
 
@@ -14,19 +14,19 @@ Acest fișier README servește ca document central pentru Laboratorul 1, acoperi
 Mai jos este o simulare a panoului nostru Kanban, cu mai multe exemple de sarcini pentru a ilustra fluxul de lucru.
 
 ### Coloana: To Do
-* [cite_start]Crearea unei funcționalități de bază pentru aplicație. [cite: 102]
+Crearea unei funcționalități de bază pentru aplicație.
 * Configurarea bazei de date pentru utilizatori.
 * Scrierea testelor unitare pentru modulul de login.
 * Design-ul paginii "Setări cont".
 * Definirea endpoint-ului API pentru "Adăugare sarcini".
 
 ### Coloana: In Progress
-* [cite_start]Dezvoltarea formularului UI. [cite: 103]
+Dezvoltarea formularului UI.
 * Implementarea logicii de autentificare (backend).
 * Revizuirea codului pentru funcționalitatea de ștergere.
 
 ### Coloana: Done
-* [cite_start]Stabilirea design-ului aplicației. [cite: 104]
+Stabilirea design-ului aplicației.
 * Definirea arhitecturii proiectului.
 * Crearea repository-ului GitHub (acest fișier).
 * Alegerea paletei de culori și a fonturilor.
@@ -35,7 +35,7 @@ Mai jos este o simulare a panoului nostru Kanban, cu mai multe exemple de sarcin
 
 ## 3. Exercițiu Practic: Vizualizarea Valorilor Agile
 
-[cite_start]**Valoarea:** „Indivizii şi interacțiunile mai presus de procese și unelte.” [cite: 97]
+**Valoarea:** „Indivizii şi interacțiunile mai presus de procese și unelte.”
 
 **Exemplu similar din experiența personală:**
 
